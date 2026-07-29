@@ -1,0 +1,36 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dekudeals.com",
+        "rutracker.org",
+        "ws.tizam.org",
+        "usher.ttvnw.net",
+        "gql.twitch.tv",
+        "ttvnw.net",
+        "jtvnw.net",
+        "twitch.tv",
+        "twitchcdn.net",
+        "ledger.com",
+        "www.ledger.com",
+        "api.ledger.com",
+        "developers.ledger.com",
+        "support.ledger.com",
+        "api.live.ledger.com",
+        "manager.api.live.ledger.com",
+        "cdn.live.ledger.com",
+        "socket.live.ledger.com",
+        "download.live.ledger.com",
+        "live.tizam.org",
+        "liv.tizam.org",
+        "li.tizam.org",
+        "psprices.com",
+        "i.scdn.co",
+        "open.spotify.com",
+        "api.spotify.com",
+        "spclient.wg.spotify.com"
+      ]
+    }
+  ]
+}
