@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ledger.com",
+        "www.ledger.com",
+        "api.ledger.com",
+        "developers.ledger.com",
+        "support.ledger.com",
+        "api.live.ledger.com",
+        "manager.api.live.ledger.com",
+        "cdn.live.ledger.com",
+        "socket.live.ledger.com",
+        "download.live.ledger.com"
+      ]
+    }
+  ]
+}
