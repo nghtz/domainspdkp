@@ -12,7 +12,10 @@
         "manager.api.live.ledger.com",
         "cdn.live.ledger.com",
         "socket.live.ledger.com",
-        "download.live.ledger.com"
+        "download.live.ledger.com",
+	"fatsecret.com",
+	"foodimagedb.com",
+	"ftscrt.com"
       ]
     }
   ]
